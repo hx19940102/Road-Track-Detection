@@ -1,7 +1,7 @@
 # Road-Track-Detection-Navigation
-Track the road for self-driving
+Track the road for self-driving, the code is confidential thus it will not be posted on my github.
 
-# Part of Results
+# Videos of Results
 Road With Traffic Lanes
 
 [![Road With Traffic Lanes](https://img.youtube.com/vi/IhNhg2Se_Ro/0.jpg)](https://www.youtube.com/watch?v=IhNhg2Se_Ro)
